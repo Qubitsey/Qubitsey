@@ -1,0 +1,70 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre nosotros"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "Blog/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Soluciones"
+hasChildren = true
+
+[[main]]
+parent = "Soluciones"
+name = "Educación"
+url = "elements/"
+
+[[main]]
+parent = "Soluciones"
+name = "Inteligencia artificial"
+url = "contact/"
+
+[[main]]
+parent = "Soluciones"
+name = "Grandes datos"
+url = "authors/"
+
+[[main]]
+parent = "Soluciones"
+name = "Bioquímica"
+url = "blog/"
+
+
+[[main]]
+parent = "Soluciones"
+name = "Seguridad"
+url = "categories/"
+
+[[main]]
+parent = "Soluciones"
+name = "Diseño de ingeniería"
+url = "blog/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
