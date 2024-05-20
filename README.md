@@ -7,21 +7,23 @@ I research and work a lot. I like to work on projects that have real application
 
 
 ### I’m currently learning 🌱
-
-- Theoretical Machine Learning from the basic
-- Pytorch and Pytorch-lightning
+- Bachelor's degree in Systems Engineering (UTN - FRBA)
+- Bachelor's degree in Data Science (UBA - FCEN)
+- Quantum Machine Learning
+- Theoretical Machine Learning
 
 ### I’m currently working on 🔭
-
+- Developing tools for DeepLearning Project and MachineLearning Project
 - Coding everyday for better research engineering skill
+- 
 
 ### How to reach me 📫
 
-- 📫 Email: [villalbaalejandro23@gmail.com](villalbaalejandro23@gmail.com)
-- 📫 Homepage: https://qubitsey.com/
-- 📖 My biography: 
-- 📫 Linkdin: https://www.linkedin.com/
-- 💬 Ask me about: IA and Machine Learning.
+- 📫 Email: [qubitsey@gmail.com](qubitsey@gmail.com)
+- 📫 Homepage: [https://qubitsey.com/](https://qubitsey.com/)
+- 📖 My biography: [https://qubitsey.github.io/](https://qubitsey.github.io/))
+- 📫 Linkdin: [https://www.linkedin.com/in/qubitsey](https://www.linkedin.com/in/qubitsey)
+- 
 
 
 
