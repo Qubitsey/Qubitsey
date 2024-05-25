@@ -19,11 +19,12 @@ I research and work a lot. I like to work on projects that have real application
 
 ### How to reach me 📫
 
-- 📫 Email: [qubitsey@gmail.com](qubitsey@gmail.com)
-- 📫 Homepage: [https://qubitsey.com/](https://qubitsey.com/)
-- 📖 My biography: [https://qubitsey.github.io/](https://qubitsey.github.io/))
-- 📫 Linkdin: [https://www.linkedin.com/in/qubitsey](https://www.linkedin.com/in/qubitsey)
-- 
+- 📩 Gmail: [qubitsey@gmail.com](qubitsey@gmail.com)
+- 💻 Homepage: [https://qubitsey.com/](https://qubitsey.com/)
+- 👀 My biography: [https://qubitsey.github.io/](https://qubitsey.github.io/)
+- 🛠️ Linkdin: [https://www.linkedin.com/in/qubitsey](https://www.linkedin.com/in/qubitsey)
+- 💩 Twitter: [https://x.com/Qubitsey](https://x.com/Qubitsey)
+- 📽️ Youtube: [www.youtube.com/@Qubitsey](www.youtube.com/@Qubitsey)
 
 
 
