@@ -25,6 +25,8 @@ I research and work a lot. I like to work on projects that have real application
 - 🛠️ Linkdin: [https://www.linkedin.com/in/qubitsey](https://www.linkedin.com/in/qubitsey)
 - 💩 Twitter: [https://x.com/Qubitsey](https://x.com/Qubitsey)
 - 📽️ Youtube: [www.youtube.com/@Qubitsey](www.youtube.com/@Qubitsey)
+- 👽 Reddit:
+- 😑 Zhihu: 
 
 
 
