@@ -13,7 +13,6 @@ I research and work a lot. I like to work on projects that have real application
 - Theoretical Machine Learning
 
 ### I’m currently working on 🔭
-- Developing tools for DeepLearning Project and MachineLearning Project
 - Coding everyday for better research engineering skill
 
 ### How to reach me 📫
