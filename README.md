@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Alejandro Villalba 😄</h1>
 
 
-Sofware Engineer dedicado en diseñar y construir software de alto rendimiento, alta escalabilidad, y alta calidad. Me fascinan los microservicios en la nube, y la arquitectura del software con un enfoque en el backend utilizando C# .NET y ASP.NET Core sobre tecnologías de vanguardia.
-
-Siempre estoy comprometido con el aprendizaje continuo y con mantenerme actualizado con las últimas tendencias de la industria. Apasionado por resolver problemas/desafíos complejos, aprender cosas nuevas y compartir conocimientos. En mi tiempo libro aprendo sobre computación cuántica e inteligencia artificial, y su futura aplicación en las industrias. 
+Sofware Engineer dedicado en diseñar y construir software de alto rendimiento, alta escalabilidad, y alta calidad. Me fascinan los microservicios en la nube, y la arquitectura del software con un enfoque en el backend utilizando C# .NET y ASP.NET Core sobre tecnologías de vanguardia. Siempre estoy comprometido con el aprendizaje continuo y con mantenerme actualizado con las últimas tendencias de la industria. Apasionado por resolver problemas/desafíos complejos, aprender cosas nuevas y compartir conocimientos. En mi tiempo libro aprendo sobre computación cuántica e inteligencia artificial, y su futura aplicación en las industrias. 
 
 
 <h2 align="center">Professional skills</h2>
