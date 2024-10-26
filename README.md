@@ -8,9 +8,6 @@ Sofware Engineer dedicado en diseñar y construir software de alto rendimiento, 
 
 <p align="center">
  </a>
-  <a href="https://www.python.org/">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" with="50" height="50" alt="dotnet" >
-   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  with="50" height="50" alt="csharp">
   </a>
