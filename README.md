@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Alejandro Villalba 😄</h1>
 
-
-Software Engineer dedicated to designing and building high-performance, high-scalability and high-quality software. I am fascinated by cloud microservices, and software architecture with a focus on the backend using C# .NET and ASP.NET Core on cutting-edge technologies. I am always committed to continuous learning and staying up to date with the latest industry trends. Passionate about solving complex problems/challenges, learning new things and sharing knowledge. In my book time I will learn about quantum computing and artificial intelligence, and its future application in industries.
+Software Engineer dedicated to designing and building high-performance, scalable, and high-quality software, specializing in cloud-native microservices with a backend focus using C# .NET and ASP.NET Core on cutting-edge technologies.  Committed to continuous learning and staying updated with the latest industry trends. Passionate about solving complex problems/challenges, learning new things, and knowledge sharing. I enjoy exploring topics like quantum computing and artificial intelligence, with a focus on their future industrial applications.
 
 
 <h2 align="center">Professional skills</h2>
