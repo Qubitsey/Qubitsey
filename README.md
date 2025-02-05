@@ -60,7 +60,7 @@ Software Engineer dedicated to designing and building high-performance, scalable
 <h2 align="center">Contact me</h2>
 
 <p align="center"> 
- <a href="https://www.linkedin.com/in/qubitsey" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/alvillalba" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
    </a>
  <a href="https://twitter.com/qubitsey" alt="Twitter">
